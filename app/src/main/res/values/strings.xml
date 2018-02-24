@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FicheroExterno</string>
+    <string name="enviar">Enviar a SD</string>
+    <string name="leer">Leer de SD</string>
+    <string name="leer_publico">Escribir en SD publica</string>
+</resources>
